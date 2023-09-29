@@ -4,11 +4,11 @@ tmp/
 out-tsc/
 .idea/
 
-.angular-cli.json
-.angular-cli.json.orig
-karma.conf.js
-protractor.conf.js
-tslint.json
+# .angular-cli.json
+# .angular-cli.json.orig
+# karma.conf.js
+# protractor.conf.js
+# tslint.json
 
 *.log
 *.log.*
@@ -19,5 +19,5 @@ log-data/
 *~
 .DS_Store
 /yarn.lock
-/package-lock.json
+package-lock.json
 
