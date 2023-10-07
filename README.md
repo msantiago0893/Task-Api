@@ -1,12 +1,14 @@
 # Task Fake
 
-Angular version 12.2.18
-Node: v16.10.0
-Link Bootstrap 5.3.0
+## Overview
 
-## external dependencies
-  npm install sweetalert2
+- **Angular:** v12.2.18
+- **Node:** v16.10.0
+- **Bootstrap:** v5.3.0
 
-## Description
-  This project is a simulation of a fictitious task management system that employs CRUD operations. Additionally, it involves integration with an external API for data handling.
+## External Dependencies
 
+To get started, make sure to install the following dependency:
+
+```bash
+npm install sweetalert2
